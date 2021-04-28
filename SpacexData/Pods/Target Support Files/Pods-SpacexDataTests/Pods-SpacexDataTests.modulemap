@@ -1,0 +1,6 @@
+framework module Pods_SpacexDataTests {
+  umbrella header "Pods-SpacexDataTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
